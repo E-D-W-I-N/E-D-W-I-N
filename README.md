@@ -10,21 +10,20 @@
 
 ### Connect with me:
 
-[<img align="left" alt="E-D-W-I-N | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="E-D-W-I-N | Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="E-D-W-I-N | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="E-D-W-I-N | Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
+[<img align="left" alt="E-D-W-I-N | Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Android Studio" width="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
-<img align="left" alt="Kotlin" width="26px" src="https://simpleicons.org/icons/kotlin.svg" />
-<img align="left" alt="Firebase" width="26px" src="https://simpleicons.org/icons/firebase.svg" />
-<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
-<img align="left" alt="Spring" width="26px" src="https://simpleicons.org/icons/spring.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />
+<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <br />
 <br />
 
@@ -35,6 +34,5 @@
 
 </details>
 
-[vk]: https://vk.com/id431727752
 [telegram]: https://t.me/E_D_W_I_N
 [twitter]: https://twitter.com/HideButNotSeek
