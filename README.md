@@ -6,7 +6,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-e-d-w-i-n.vercel.app/" alt="E-D-W-I-N Spotify Playing" width="350" />](https://open.spotify.com/user/nj6m890ilt12s6enx99qbxve3)
+[<img src="https://novatorem-e-d-w-i-n.vercel.app/api/spotify" alt="E-D-W-I-N Spotify Playing" width="350" />](https://open.spotify.com/user/nj6m890ilt12s6enx99qbxve3)
 
 ### Connect with me:
 
@@ -18,14 +18,13 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Android Studio" width="26px" src="https://simpleicons.org/icons/androidstudio.svg" />]
-[<img align="left" alt="Kotlin" width="26px" src="https://simpleicons.org/icons/kotlin.svg" />]
-[<img align="left" alt="Firebase" width="26px" src="https://simpleicons.org/icons/firebase.svg" />]
-[<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />]
-[<img align="left" alt="Spring" width="26px" src="https://simpleicons.org/icons/spring.svg" />]
-[<img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />]
-
+<img align="left" alt="Android Studio" width="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
+<img align="left" alt="Kotlin" width="26px" src="https://simpleicons.org/icons/kotlin.svg" />
+<img align="left" alt="Firebase" width="26px" src="https://simpleicons.org/icons/firebase.svg" />
+<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
+<img align="left" alt="Spring" width="26px" src="https://simpleicons.org/icons/spring.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />
 <br />
 <br />
 
